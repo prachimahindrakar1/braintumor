@@ -1,4 +1,4 @@
-Here is the **README.md** content for your **braintumor** project. You can directly **copy-paste** it into your **GitHub README.md** file.
+
 
 ---
 
@@ -61,4 +61,4 @@ Feel free to open **issues** or **pull requests** for improvements.
 
 ---
 
-This README provides all necessary details for anyone to install and use your project. Let me know if you need modifications! 🚀
+This README provides all necessary details for anyone to install and use your project. 
